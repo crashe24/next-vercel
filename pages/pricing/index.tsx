@@ -1,0 +1,15 @@
+import MainLayout from '../../components/layouts/MainLayout';
+import React from 'react';
+
+const Pricing = () => {
+  return (
+    <MainLayout>
+        <h1>
+        pricing page
+        </h1>
+
+    </MainLayout>
+  );
+}
+
+export default Pricing;
